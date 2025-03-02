@@ -1,0 +1,6 @@
+@PatiliDost_HostAddress = http://localhost:5173
+
+GET {{PatiliDost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
